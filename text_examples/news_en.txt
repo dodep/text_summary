@@ -1,0 +1,33 @@
+Apple is facing mounting pressure over how it runs its app store ahead of its major global developers' conference, which starts on Monday.
+The firm has been accused of creating "hostile" policies within its fee structure, and is dealing with two EU competition probes announced this week.
+But it is also embroiled in a row with some of its own developers.
+That has now widened into a debate involving politicians and other major technology firms.
+Apple's Worldwide Developers Conference often features new product announcements but is mainly an event for software developers working on Apple's platforms - some of whom are now voicing discontent about its pricing.
+The argument was ignited in part by an email app called Hey, created by developer David Heinemeier Hansson.
+It had an update rejected by the Apple app store early this week because it does not allow in-app purchases - from which Apple takes a 30% cut.
+Many developers do not offer in-app subscriptions to avoid that levy - or raise the price of in-app subscriptions for the end user.
+But not all apps are affected, Mr Hansson says.
+He pointed to email apps from Gmail and Microsoft's Outlook, which he says are treated differently, but which Apple would not discuss with him.
+Hey's annual subscription of $99 (£80) is available only directly from the company online, and the app does not tell users where to buy it - so the firm believed it was following all the rules, similar to other email apps.
+But Apple told him the app should never have been approved in the first place - and could be removed.
+"If we don't like the deal Apple is offering us - which is to either pay them 30% or get kicked out - what are we going to do about that?
+Where are we going to go?" he told the BBC.
+'Outrageous' decision
+"If you launch a new piece of software today, and you're not available on the iPhone, you're invisible."
+The cry has now been taken up by others, including blogger John Gruber, whose blog, Daring Fireball, is widely read among Apple developers.
+He wrote that if Hey's issues were not a mistake, the decision was "outrageous".
+Such issues are behind an anti-competition probe announced by the EU this week, prompted by a complaint from Spotify.
+The Swedish firm also takes issue with Apple's approach to charging subscriptions and the cut it takes.
+The anti-competition probe, coinciding with the row over Hey's business model, has snowballed into a much bigger argument.
+Microsoft President Brad Smith entered the debate, saying that regulators on both sides of the Atlantic should have a "focused conversation" about app stores and the rules in place - though he did not mention Apple by name.
+Microsoft has itself been the subject of competition probes, hit with hefty fines over its dominant market position with Microsoft Windows and its web browser.
+But he said the restrictions and demands placed on developers today are far higher than anything that existed 20 years ago, at the height of Microsoft's software dominance.
+Facebook, meanwhile, told the New York Times that its Gaming app had been rejected from Apple's app store five times.
+Sources who spoke to the newspaper said it might be because the app offers simple games that do not have to be downloaded in the traditional way - through Apple's store.
+Even the chairman of the House antitrust committee - the group of politicians that deals with competition law in the United States - has voiced his concern.
+"Because of the market power that Apple has, it is charging exorbitant rents - highway robbery, basically - bullying people to pay 30% or denying access to their market," David Cicilline told The Verge.
+"It's crushing small developers who simply can't survive with those kinds of payments.
+If there were real competition in this marketplace, this wouldn't happen."
+The committee has asked the heads of major tech companies - including Tim Cook at Apple - to attend a session about competition in the tech sector.
+Mr Cook, it is reported, has yet to agree to attend.
+But despite the international attention on Apple's policies, its head of marketing, Phil Schiller, told Techcrunch the company was not considering any changes to its rules.
